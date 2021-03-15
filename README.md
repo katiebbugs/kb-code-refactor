@@ -1,6 +1,9 @@
 # kb-code-refactor
 1. HTML CSS Git Challenge: Code Refactor
 
+https://github.com/katiebbugs/kb-code-refactor
+
+
 On-the-Job Ticket: Accessibility
 Take Existing Code and Refactor it
 (to refactor code is to improve it without changing what it does)
