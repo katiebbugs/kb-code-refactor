@@ -2,6 +2,7 @@
 1. HTML CSS Git Challenge: Code Refactor
 
 https://github.com/katiebbugs/kb-code-refactor
+
 https://katiebbugs.github.io/kb-code-refactor/
 
 On-the-Job Ticket: Accessibility
