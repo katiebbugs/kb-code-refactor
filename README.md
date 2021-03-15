@@ -2,7 +2,7 @@
 1. HTML CSS Git Challenge: Code Refactor
 
 https://github.com/katiebbugs/kb-code-refactor
-
+https://katiebbugs.github.io/kb-code-refactor/
 
 On-the-Job Ticket: Accessibility
 Take Existing Code and Refactor it
@@ -36,3 +36,5 @@ Accessibility changes, fixes, and general organization
     Removed segmented Horiseon header for accessibility (site readers)
     Moved heart emoji in footer to front of the text and put love in it's only place for accessibility (site readers)
     Rearranged CSS to keep CSS for each section together
+
+![refactored-site](https://user-images.githubusercontent.com/79028196/111111118-5e74e200-8523-11eb-802b-384284cb0eba.png)
