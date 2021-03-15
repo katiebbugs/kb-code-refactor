@@ -35,7 +35,7 @@ Accessibility changes, fixes, and general organization
     Added alt statements to HTML images
     Added id="search-engine-optimization" so nav to it would work
     Removed segmented Horiseon header for accessibility (site readers)
-    Moved heart emoji in footer to front of the text and put love in it's only place for accessibility (site readers)
+    Moved footer heart emoji to front of text and put love in it's place, for accessibility (site readers)
     Rearranged CSS to keep CSS for each section together
 
 ![refactored-site](https://user-images.githubusercontent.com/79028196/111111118-5e74e200-8523-11eb-802b-384284cb0eba.png)
