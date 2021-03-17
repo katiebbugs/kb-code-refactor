@@ -33,3 +33,4 @@ Accessibility changes, fixes, and general organization
     Removed segmented Horiseon header for accessibility (site readers)
     Moved heart emoji in footer to front of the text and put love in it's only place for accessibility (site readers)
     Rearranged CSS to keep CSS for each section together
+    Shortened/simplified CSS code
